@@ -1,0 +1,10 @@
+
+@media only screen and (min-width:992px) {
+    .hfont {
+        font-size: 1.5vw;
+    
+    }
+    .pfont {
+        font-size: 1.2vw;
+    }
+}

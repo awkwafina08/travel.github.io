@@ -1,0 +1,15 @@
+.hotelborder {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: gray;
+}
+.pcolor {
+    color: white;
+}
+#book-ticket {
+    background-color: black;
+}
+h3 {
+    color: white;
+}
